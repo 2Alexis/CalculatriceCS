@@ -1,0 +1,15 @@
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.AssemblyInfo.cs
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.sourcelink.json
+C:\Users\alexi\Desktop\Calculatriceu\bin\Debug\net8.0-windows\Calculatriceu.exe
+C:\Users\alexi\Desktop\Calculatriceu\bin\Debug\net8.0-windows\Calculatriceu.deps.json
+C:\Users\alexi\Desktop\Calculatriceu\bin\Debug\net8.0-windows\Calculatriceu.runtimeconfig.json
+C:\Users\alexi\Desktop\Calculatriceu\bin\Debug\net8.0-windows\Calculatriceu.dll
+C:\Users\alexi\Desktop\Calculatriceu\bin\Debug\net8.0-windows\Calculatriceu.pdb
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.dll
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\refint\Calculatriceu.dll
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.pdb
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\Calculatriceu.genruntimeconfig.cache
+C:\Users\alexi\Desktop\Calculatriceu\obj\Debug\net8.0-windows\ref\Calculatriceu.dll
